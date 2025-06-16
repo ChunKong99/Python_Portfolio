@@ -18,4 +18,5 @@ Understanding trends in Data Science jobs, including salary and skills.
 4)   **Git & Github**: version control and hosting my files for public access
 
 
-
+### Data cleaning
+1)  Date and time values
