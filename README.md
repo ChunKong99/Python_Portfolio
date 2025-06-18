@@ -23,3 +23,6 @@ Understanding trends in Data Science jobs, including salary and skills.
 
 # Analyse
 ### Exploratory Data Analysis
+
+
+# Recommendations
