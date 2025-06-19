@@ -26,3 +26,5 @@ Understanding trends in Data Science jobs, including salary and skills.
 
 
 # Recommendations
+
+--contact Chun Kong at +60 111-2992771 or i_am_gary_lai@yahoo.com for more data analysis work--
