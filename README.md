@@ -19,7 +19,7 @@ Understanding trends in Data Science jobs, including salary and skills.
 
 
 ### Data cleaning
-1)  Date and time values are firstly
+1)  Date and time values are
 
 # Analyse
 ### Exploratory Data Analysis
